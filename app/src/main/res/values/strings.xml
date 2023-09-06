@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MoneySaver</string>
+    <string name="log_in">Log In</string>
+    <string name="user_name">User Name</string>
+    <string name="user_password">User Password</string>
+    <string name="log_ind">Log In</string>
+    <string name="or_sign_up_with">Or sign up with</string>
+    <string name="web_client_id">66437558500-jj8elq0914bilhajvuc2q1iqe4n4vbe3.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <string name="head_1">Biden aims to expand vaccines for adults and children</string>
+    <string name="head_2">Just got my first shot, helping the world to be a safer place</string>
+    <string name="head_3">Local trains to be suspended in Bengal from tomorrow in view of covid-19</string>
+    <string name="head_4">MHA asks states,UTs to ensure there are no fires in hospitals</string>
+    <string name="head_5">Australian citizen sues PM Morrison over flight ban from india</string>
+    <string name="head_6">Former India hockey coach Kaushik hospitalised after testing positive for COVID</string>
+    <string name="head_7">Delhi records 20,960 fresh covid-19 infections, positivity rate at 26.37%</string>
+    <string name="head_8">Barcelona church offers open-air space for Ramadan</string>
+    <string name="head_9">Trillions of cicadas set to emerge in the US, here\'s why</string>
+    <string name="head_10">Homemaker, economist: Candidates from all walks of life in Bengal assembly</string>
+</resources>
